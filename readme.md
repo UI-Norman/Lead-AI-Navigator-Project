@@ -1,4 +1,4 @@
-# Lead AI Navigator Platform
+# Lead AI Navigator System
 
 ## Overview
 
